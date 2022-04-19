@@ -1,0 +1,50 @@
+{
+  "rooms": [
+    {
+      "rid": 1,
+      "room_name": "crayon",
+      "isBooked":false,
+      "fromDate":null,
+      "toDate":null,
+      "fromTime":null,
+      "toTime":null
+    },
+    {
+      "rid": 2,
+      "room_name": "chisel",
+      "isBooked":false,
+      "fromDate":null,
+      "toDate":null,
+      "fromTime":null,
+      "toTime":null
+    },
+    {
+      "rid": 3,
+      "room_name": "meeting3",
+      "isBooked":false,
+      "fromDate":null,
+      "toDate":null,
+      "fromTime":null,
+      "toTime":null
+    },
+    {
+      "rid": 4,
+      "room_name": "meeting4",
+      "isBooked":false,
+      "fromDate":null,
+      "toDate":null,
+      "fromTime":null,
+      "toTime":null
+    },
+    {
+      "rid": 5,
+      "room_name": "meeting5",
+      "isBooked":false,
+      "fromDate":null,
+      "toDate":null,
+      "fromTime":null,
+      "toTime":null
+    }
+  ]
+ 
+}
